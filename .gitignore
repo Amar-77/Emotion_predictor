@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+
+# ML artifacts and logs
+runs/
+distilbert_finetuned_emotion/
+
+# Python cache
+__pycache__/
